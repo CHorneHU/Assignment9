@@ -1,5 +1,6 @@
-fdajko
-    def hello():
+(
+def hello():
     print (  "Hello, World!" )
 
-$typo
+)
+)
